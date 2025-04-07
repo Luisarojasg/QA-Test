@@ -26,17 +26,17 @@ async function main() {
     
     // Form data
     const formData = {
-        nombre: 'John',
-        apellidos: 'Doe',
+        nombre: 'User',
+        apellidos: 'Test',
         telefono: '1234567890',
-        correo: 'john.doe@example.com',
-        direccion: '123 Main Street',
+        correo: 'user.test@yopmail.com',
+        direccion: '123 testing',
         pais: 'Colombia',
         ciudad: 'Bogota',
         estado: 'Cundinamarca',
-        codigoPostal: '110111',
+        codigoPostal: '120987',
         ocupacion: 'Software Engineer',
-        empresa: 'Tech Corp',
+        empresa: 'FletX',
         datosAdicionales: 'Additional information about the applicant'
     };
 
