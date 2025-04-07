@@ -1,0 +1,16 @@
+{
+  "name": "playwright-test",
+  "version": "1.0.0",
+  "description": "Website automation using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "start": "node index.js"
+  },
+  "keywords": ["playwright", "automation", "testing"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.42.1"
+  }
+}
